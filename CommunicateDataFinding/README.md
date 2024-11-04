@@ -9,13 +9,13 @@
        
 
    ### Debt-to-Income Ratio, Prosper Rating, and Loan Status:
-    Loans with a high Debt-to-Income Ratio were more prone to default ("Chargedoff") or show other delinquent statuses, especially among lower Prosper Ratings.
-        Higher-rated borrowers tended to have lower Debt-to-Income Ratios, indicating financial stability and lower risk levels.
+   Loans with a high Debt-to-Income Ratio were more prone to default ("Chargedoff") or show other delinquent statuses, especially among lower Prosper Ratings.
+   Higher-rated borrowers tended to have lower Debt-to-Income Ratios, indicating financial stability and lower risk levels.
 
    
        
    ### Loan Original Amount, Borrower APR, and Prosper Rating:
-     Larger loan amounts were associated with lower APRs, particularly among borrowers with higher Prosper Ratings, indicating lenders' confidence in creditworthy borrowers.
-        Lower-rated borrowers not only faced higher APRs but also showed wider APR variability even for similar loan amounts, reflecting stricter lending conditions.
+   Larger loan amounts were associated with lower APRs, particularly among borrowers with higher Prosper Ratings, indicating lenders' confidence in creditworthy borrowers.
+   Lower-rated borrowers not only faced higher APRs but also showed wider APR variability even for similar loan amounts, reflecting stricter lending conditions.
 
       
